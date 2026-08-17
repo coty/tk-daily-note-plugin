@@ -1,0 +1,19 @@
+README.md
+  s_e082126a355875::t_27ac531d0e692a 22-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "e08956595fcd581947b2d4105286be14269642d4",
+  "prompts": {},
+  "sessions": {
+    "s_e082126a355875": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5bd081e7-9c1e-4a60-b204-77e158863959",
+        "model": "unknown"
+      },
+      "human_author": "Coty Rosenblath <coty@katalon.com>"
+    }
+  }
+}
